@@ -13,6 +13,8 @@ A step by step list of commands / guide that informs how to install an instance 
 
 For Windows / Unix
 
+`create db.sqlite3 file`
+
 `python manage.py makemigrations`
 
 `python manage.py migrate`
